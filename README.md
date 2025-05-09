@@ -88,7 +88,7 @@ To get started, clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Work-Breakdown-Structure-SQA-Engineer.git
+git clone  https://github.com/siammahfuz/Work-breakdown-structure-for-Software-Quality-Assurance-engineer 
 cd Work-Breakdown-Structure-SQA-Engineer
 Explore Each Stage:
 Each folder within the repository represents a key stage of the WBS for SQA. For example, the requirement_analysis/ folder will guide you through understanding project requirements, while test_case_design/ will show you how to design effective test cases.
